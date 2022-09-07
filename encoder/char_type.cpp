@@ -1,0 +1,3 @@
+enum CharType {
+    LOWERCASE_LETTER, UPPERCASE_LETTER, DIGIT
+};
